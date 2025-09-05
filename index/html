@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Init-Blank-Studio - 互联网知识服务专家</title>
+    <title>Init-Blank-Studio - Internet Knowledge Services Specialist</title>
     <style>
         * {
             margin: 0;
@@ -317,60 +317,60 @@
         <div class="nav-container">
             <div class="logo">Init-Blank-Studio</div>
             <ul class="nav-links">
-                <li><a href="#" onclick="showPage('home')">首页</a></li>
-                <li><a href="#" onclick="showPage('services')">服务</a></li>
-                <li><a href="#" onclick="showPage('about')">关于我们</a></li>
-                <li><a href="#" onclick="showPage('contact')">联系</a></li>
+                <li><a href="#" onclick="showPage('home')">Home</a></li>
+                <li><a href="#" onclick="showPage('services')">Services</a></li>
+                <li><a href="#" onclick="showPage('about')">About us</a></li>
+                <li><a href="#" onclick="showPage('contact')">Contact</a></li>
             </ul>
         </div>
     </nav>
 
     <main>
-        <!-- 首页 -->
+        <!-- Home -->
         <div id="home" class="page-content active">
             <section class="hero">
                 <div class="hero-content">
                     <h1>Init-Blank-Studio</h1>
-                    <p>专业的互联网知识服务 · 从零开始，无限可能</p>
+                    <p>Professional internet knowledge services · Starting from scratch, infinite possibilities</p>
                     <a href="#" class="cta-button" onclick="showPage('services')">探索服务</a>
                 </div>
             </section>
         </div>
 
-        <!-- 服务页面 -->
+        <!-- Services -->
         <div id="services" class="page-content">
             <div class="content-section fade-in">
-                <h2 class="section-title">我们的服务</h2>
+                <h2 class="section-title">Our Services</h2>
                 <div class="services-grid">
                     <div class="service-card">
                         <div class="service-icon">🌐</div>
-                        <h3>Web开发培训</h3>
-                        <p>从基础HTML/CSS到高级React/Vue框架，全栈Web开发技能培训。</p>
+                        <h3>Web Develop</h3>
+                        <p>From Basic HTML/CSS to advanced React/Vue Framework, Full-Stack Web Development Skills Training。</p>
                     </div>
                     <div class="service-card">
                         <div class="service-icon">📱</div>
-                        <h3>移动应用开发</h3>
-                        <p>iOS、Android原生开发，React Native、Flutter跨平台开发教学。</p>
+                        <h3>Mobile application development</h3>
+                        <p>Native iOS and Android development, React Native and Flutter cross-platform development tutorials.</p>
                     </div>
                     <div class="service-card">
                         <div class="service-icon">☁️</div>
-                        <h3>云计算服务</h3>
-                        <p>AWS、CISCO等云平台部署，DevOps实践指导。</p>
+                        <h3>Cloud computing services</h3>
+                        <p>Cloud platform deployment on AWS, Cisco and others, with DevOps practice guidance.</p>
                     </div>
                     <div class="service-card">
                         <div class="service-icon">🤖</div>
-                        <h3>AI技术应用</h3>
-                        <p>机器学习、深度学习、自然语言处理等AI技术的实际应用培训。</p>
+                        <h3>Application of AI Technology</h3>
+                        <p>Practical training in the application of AI technologies such as machine learning, deep learning, and natural language processing.</p>
                     </div>
                     <div class="service-card">
                         <div class="service-icon">🔒</div>
-                        <h3>网络安全</h3>
-                        <p>Web安全、渗透测试、安全防护策略等网络安全知识分享。</p>
+                        <h3>Cybersecurity</h3>
+                        <p>Sharing of cybersecurity knowledge including web security, penetration testing, and security protection strategies.</p>
                     </div>
                     <div class="service-card">
                         <div class="service-icon">📊</div>
-                        <h3>数据分析</h3>
-                        <p>Python数据分析、数据可视化、大数据处理技术培训。</p>
+                        <h3>Data analysis</h3>
+                        <p>Python Data Analysis, Data Visualisation, and Big Data Processing Technology Training.</p>
                     </div>
                 </div>
             </div>
@@ -381,24 +381,24 @@
             <div class="content-section fade-in">
                 <h2 class="section-title">关于我们</h2>
                 <p style="font-size: 1.2rem; line-height: 1.8; text-align: center; max-width: 800px; margin: 0 auto;">
-                    Init-Blank-Studio致力于互联网技术知识的传播与教育。我们相信每个人都有学习编程和技术的潜力，
-                    从"初始化空白"开始，通过系统性的学习和实践，每个人都能成为技术专家。
-                    我们的团队由资深的互联网从业者/爱好者组成，帮助您找到所有所需的教程和知识。
+                    Init-Blank-Studio is dedicated to disseminating and educating about internet technology knowledge. We believe everyone possesses the potential to learn programming and technology.
+                    Starting from ‘initialisation blank’, through systematic learning and practice, anyone can become a technical expert.
+                    Our team comprises seasoned internet practitioners and enthusiasts, helping you find all the tutorials and knowledge you require.
                 </p>
                 <div style="margin-top: 3rem; text-align: center;">
-                    <h3 style="color: #667eea; margin-bottom: 1rem;">我们的理念</h3>
+                    <h3 style="color: #667eea; margin-bottom: 1rem;">Our Philosophy</h3>
                     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; margin-top: 2rem;">
                         <div>
-                            <h4>🚀 从零开始</h4>
-                            <p>无论基础如何，都能找到适合的学习路径</p>
+                            <h4>🚀 Starting from scratch</h4>
+                            <p>Regardless of one's starting point, a suitable learning path can be found.</p>
                         </div>
                         <div>
-                            <h4>💡 实践导向</h4>
-                            <p>理论结合实战，学以致用</p>
+                            <h4>💡 Practice-oriented</h4>
+                            <p>Combining theory with practical application, learning for practical use</p>
                         </div>
                         <div>
-                            <h4>🔄 持续更新</h4>
-                            <p>紧跟技术发展，内容不断迭代</p>
+                            <h4>🔄 Continuously updated</h4>
+                            <p>Keeping pace with technological developments, content undergoes continuous iteration.</p>
                         </div>
                     </div>
                 </div>
@@ -408,34 +408,34 @@
         <!-- 联系页面 -->
         <div id="contact" class="page-content">
             <div class="content-section fade-in">
-                <h2 class="section-title">联系我们</h2>
+                <h2 class="section-title">Contact us</h2>
                 <form class="contact-form" onsubmit="handleSubmit(event)">
                     <div class="form-group">
-                        <label for="name">姓名</label>
+                        <label for="name">Name</label>
                         <input type="text" id="name" name="name" required>
                     </div>
                     <div class="form-group">
-                        <label for="email">邮箱</label>
+                        <label for="email">Mail</label>
                         <input type="email" id="email" name="email" required>
                     </div>
                     <div class="form-group">
-                        <label for="phone">电话</label>
+                        <label for="phone">Tel</label>
                         <input type="tel" id="phone" name="phone">
                     </div>
                     <div class="form-group">
-                        <label for="message">留言</label>
+                        <label for="message">Message</label>
                         <textarea id="message" name="message" rows="5" required></textarea>
                     </div>
-                    <button type="submit" class="submit-btn">发送消息</button>
+                    <button type="submit" class="submit-btn">Send Message</button>
                 </form>
                 
                 <div style="margin-top: 3rem; text-align: center; padding-top: 2rem; border-top: 1px solid #eee;">
-                    <h3>其他联系方式</h3>
+                    <h3>Other Ways</h3>
                     <p style="margin-top: 1rem;">
-                        📧 邮箱: contact@init-blank-studio.com<br>
-                        📱 微信: InitBlankStudio<br>
-                        🌐 技术博客: blog.init-blank-studio.com<br>
-                        📍 地址: Mülheim an der Ruhr, NRW, Deutschland 
+                        📧:q1416490634@gmail.com
+                        📱 +49 15758157621
+                        🌐 GitHub: Init-Blank-Studio
+                        📍 Adressee: Mülheim an der Ruhr, NRW, Deutschland 
                     </p>
                 </div>
             </div>
@@ -443,7 +443,7 @@
     </main>
 
     <footer>
-        <p>&copy; 2025 Init-Blank-Studio. 专注互联网技术知识分享.</p>
+        <p>© 2025 Init-Blank-Studio. Dedicated to sharing internet technology knowledge.</p>
     </footer>
 
     <script>
@@ -489,7 +489,7 @@
             };
             
             // 显示成功消息
-            alert('谢谢您的留言！我们会尽快回复您。');
+            alert('Thank you for your message! We shall endeavour to respond to you as soon as possible.');
             
             // 重置表单
             event.target.reset();
