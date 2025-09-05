@@ -332,7 +332,7 @@
                 <div class="hero-content">
                     <h1>Init-Blank-Studio</h1>
                     <p>Professional internet knowledge services · Starting from scratch, infinite possibilities</p>
-                    <a href="#" class="cta-button" onclick="showPage('services')">探索服务</a>
+                    <a href="#" class="cta-button" onclick="showPage('services')">Explore Services</a>
                 </div>
             </section>
         </div>
@@ -379,7 +379,7 @@
         <!-- 关于我们页面 -->
         <div id="about" class="page-content">
             <div class="content-section fade-in">
-                <h2 class="section-title">关于我们</h2>
+                <h2 class="section-title">About us</h2>
                 <p style="font-size: 1.2rem; line-height: 1.8; text-align: center; max-width: 800px; margin: 0 auto;">
                     Init-Blank-Studio is dedicated to disseminating and educating about internet technology knowledge. We believe everyone possesses the potential to learn programming and technology.
                     Starting from ‘initialisation blank’, through systematic learning and practice, anyone can become a technical expert.
